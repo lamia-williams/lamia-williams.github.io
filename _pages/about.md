@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hello! This is my GitHub Page!"
 author_profile: true
 redirect_from: 
   - /about/
